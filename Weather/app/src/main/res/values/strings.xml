@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string-array name="location_array">
+        <item>Choose a location...</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Dublin</item>
+        <item>Milan</item>
+        <item>Rome</item>
+        <item>Sofia</item>
+    </string-array>
+
+
+</resources>
